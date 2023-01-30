@@ -11,7 +11,7 @@ Last Update: 2023-1-30
 ## purpose
 IAB_Citationは，IABの引用形式に乗っ取ったCSL(Citation Style Language)ファイルを格納したディレクトリです．
 
-CSLとは文献の引用形式をXMLで記述したものであり，文献管理ソフト(Mendeley,Paperpile,Zoteroなど)で読み込むことで特定の引用形式を使用することができます．
+CSLとは文献の引用形式をXMLで記述したものであり，文献管理ソフト(Mendeley,Paperpile,Zoteroなど)で読み込んで使用します．
 
 これにより，TPでの引用形式に関する添削を軽減することを目的としています．
 
