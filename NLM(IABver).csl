@@ -111,12 +111,12 @@
         </group>
         <text macro="edition" prefix=" "/>
       </if>
-      <if type="article-journal" match="any">
+      <else-if type="article-journal" match="any">
         <group suffix="." delimiter=" ">
           <text variable="container-title" form="short" strip-periods="true"/>
         </group>
         <text macro="edition" prefix=" "/>
-      </if>
+      </else-if>
       <!--add event-name and event-place once they become available-->
       <else-if type="bill legislation" match="any">
         <group delimiter=", ">
