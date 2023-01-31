@@ -25,7 +25,7 @@ CSLファイルの読み込みについては，各ソフトウェアによっ�
 - [Paperpile](https://paperpile.com/h/guide-google-docs/)
 - [Zotero](https://www.zotero.org/support/preferences/cite)
 
-### 文献情報の登録
+### 引用が正しくできない場合は？
 文献管理ソフトに文献情報が正しく登録されているか確認してください．
 
 雑誌論文の場合は，**著者名，論文名，雑誌名，出版年，巻，号，ページ数**の情報が必要です．
