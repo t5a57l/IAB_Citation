@@ -2,11 +2,11 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>National Library of Medicine(IABver)_excludeURLs</title>
-    <title-short>TF-NLM</title-short>
+    <title-short>IAB-NLM</title-short>
     <id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine</id>
     <link href="http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine" rel="self"/>
     <link href="http://www.zotero.org/styles/vancouver-brackets" rel="template"/>
-    <link href="http://www.tandf.co.uk/journals/authors/style/reference/tf_NLM.pdf" rel="documentation"/>
+    <link href="https://libguides.lifewest.edu/citation-format/NLM-examples" rel="documentation"/>
     <author>
       <name>Yuki Okada</name>
     </author>
@@ -138,7 +138,7 @@
   <macro name="title">
     <text variable="title"/>
     <choose>
-      <if type="article-journal article-magazine chapter paper-conference article-newspaper webpage" match="none">
+      <if type="article-journal article-magazine chapter paper-conference article-newspaper" match="none">
         <choose>
           <if variable="URL">
             <text term="internet" prefix=" [" suffix="]" text-case="capitalize-first"/>
