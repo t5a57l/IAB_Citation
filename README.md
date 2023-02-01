@@ -22,8 +22,13 @@ CSLとは文献の引用形式をXMLで記述したものであり，文献管�
 CSLファイルの読み込みについては，各ソフトウェアによって異なるので調べてみてください．
 
 - [Mendeley](https://www.umi-mori.jp/article/science/mendeley_tutorial)
+- [Mendeley Cite](https://psycho.hes.kyushu-u.ac.jp/mendeley-csl-editor/)
 - [Paperpile](https://paperpile.com/h/guide-google-docs/)
 - [Zotero](https://www.zotero.org/support/preferences/cite)
+
+URLを使ってインポートする場合は，こちらを使用して下さい．
+
+https://raw.githubusercontent.com/t5a57l/IAB_Citation/main/NLM_IABver.csl
 
 ### 雑誌名の省略形
 雑誌名の省略形を使用したい場合は，文献管理ソフト側で設定して下さい．
