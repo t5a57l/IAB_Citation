@@ -1,6 +1,6 @@
 # IAB_Citation
 Yuki Okada  
-Last Update: 2023-02-01
+Last Update: 2024-11-27
 - [purpose](#purpose)
 - [usage](#usage)
 - [update](#update)
@@ -53,8 +53,9 @@ IABの基本的な引用形式を実装した．
 ### ver1.1
 
 cslファイル内のIDを固有のものに変更．
+
 `<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine</id>→<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine/iab-nlm</id>`
-．
+
 
 ----------
 
