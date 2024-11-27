@@ -1,6 +1,6 @@
 # IAB_Citation
 Yuki Okada  
-Last Update: 2024-11-27
+Last Update: 2023-02-01
 - [purpose](#purpose)
 - [usage](#usage)
 - [update](#update)
@@ -49,14 +49,6 @@ IABの基本的な引用形式を実装した．
 - 冒頭の６名までの著者を列挙し、著者が７名以上いる場合は、 et al. 表記で省略する
 - 出版日は年のみとし、月と日付は含めない
 - 雑誌論文の場合はURLや引用した年月日，`[Internet]`などを表記しない(文献管理ソフト側での追加設定は不要)
-
-### ver1.1
-
-cslファイル内のIDを固有のものに変更．
-
-`<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine</id>`
-→`<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine/iab-nlm</id>`
-
 
 ----------
 
