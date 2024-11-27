@@ -54,7 +54,8 @@ IABの基本的な引用形式を実装した．
 
 cslファイル内のIDを固有のものに変更．
 
-`<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine</id>→<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine/iab-nlm</id>`
+`<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine</id>`
+→`<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine/iab-nlm</id>`
 
 
 ----------
