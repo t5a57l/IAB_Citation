@@ -50,6 +50,11 @@ IABの基本的な引用形式を実装した．
 - 出版日は年のみとし、月と日付は含めない
 - 雑誌論文の場合はURLや引用した年月日，`[Internet]`などを表記しない(文献管理ソフト側での追加設定は不要)
 
+### ver1.1
+
+cslファイル内のIDを固有のものに変更．
+`<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine</id>→<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine/iab-nlm</id>`
+．
 
 ----------
 
