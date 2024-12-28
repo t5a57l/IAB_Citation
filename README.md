@@ -28,7 +28,7 @@ CSLファイルの読み込みについては，各ソフトウェアによっ�
 
 URLを使ってインポートする場合は，こちらを使用して下さい．
 
-https://raw.githubusercontent.com/t5a57l/IAB_Citation/main/NLM_IABver.csl
+https://raw.githubusercontent.com/t5a57l/IAB_Citation/refs/heads/main/NLM_IABver_ver1.1.csl
 
 ### 雑誌名の省略形
 雑誌名の省略形を使用したい場合は，文献管理ソフト側で設定して下さい．
