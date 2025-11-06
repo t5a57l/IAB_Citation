@@ -56,6 +56,15 @@ cslファイル内のIDを固有のものに変更．
 `<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine</id>`
 →`<id>http://www.zotero.org/styles/taylor-and-francis-national-library-of-medicine/iab-nlm</id>`
 
+### citation_for_research_plan.csl
+
+研究計画やポスター用の簡潔な引用形式
+
+* 著者が2名以上の場合は筆頭著者のみを表示し「et al.」を追加（例：`Sasagawa, S., et al.`）
+* 出版年を括弧付きで表示（例：`(2013)`）
+* 雑誌名をイタリック体で表示
+* 号番号（issue）を削除し、巻とページを`巻: ページ`の形式で表示（例：`152: 945–956`）
+* 参考文献リストの形式：`[1] Sasagawa, S., et al. (2013) Cell, 152: 945–956.`
 
 ----------
 
